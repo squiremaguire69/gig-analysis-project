@@ -1,0 +1,687 @@
+﻿Date,Venue,Act,Town,Genre,Price,Commission,Latitude,Longitude
+04/01/2019,Adams,Moondog,Dingle,Folk,200,20,52.141983,-10.268527
+04/01/2019,Ashes Bar,Jimmy Smith,Glenbeigh,Blues,150,15,52.056557,-9.939806
+04/01/2019,Bunkers Bar,One Man & Guitar,Killorglin,Pop,180,18,52.106742,-9.788117
+04/01/2019,McCarthys Bar,I'm Not Here,Dingle,Rock,350,35,52.142457,-10.270072
+04/01/2019,An Teach Beag,Nixer,Tralee,Trad,250,25,52.269656,-9.705905
+04/01/2019,The Mermaids,Cool Sounds,Listowel,Jazz,400,40,52.447852,-9.485744
+04/01/2019,Kingstons Bar,Ceili Band,Killorglin,Trad,500,50,52.106473,-9.785792
+04/01/2019,Ross Point,Open Mic,Glenbeigh,Folk,200,20,52.053679,-9.97643
+04/01/2019,Towers (O'Donoghue),Joe Bloggs,Killarney,Pop,250,25,52.059137,-9.506438
+04/01/2019,Paddy Macs,Hip Hop Hippies,Tralee,Hip Hop,250,25,52.26942,-9.70487
+05/01/2019,Adams,Hip Hop Hippies,Dingle,Hip Hop,250,25,52.141983,-10.268527
+05/01/2019,An Teach Beag,Country Cousins,Tralee,Country,750,75,52.269656,-9.705905
+05/01/2019,Bailys Corner,One Man & Guitar,Tralee,Pop,180,18,52.269314,-9.703899
+05/01/2019,Bunker Bar,Rock On,Ballybunion,Rock,500,50,52.511684,-9.673933
+05/01/2019,Cahernane House Hotel,I'm Not Here,Killarney,Rock,350,35,52.043426,-9.509944
+05/01/2019,Cliffords Tavern,Nixer,Killorglin,Trad,250,25,52.106782,-9.78761
+05/01/2019,Droichead Beag,Cool Sounds,Dingle,Jazz,400,40,52.141239,-10.2671
+05/01/2019,The Mermaids,Funkadelic,Listowel,Funk,300,30,52.447852,-9.485744
+05/01/2019,Mike the Pies,2 Up,Listowel,Folk,300,30,52.44897,-9.486242
+05/01/2019,Nelliefreds,True Blues,Dingle,Blues,450,45,52.141535,-10.266102
+05/01/2019,Greyhound Bar,Jazz Company,Tralee,Jazz,600,60,52.271646,-9.708596
+05/01/2019,Towers Hotel,Deal Me In,Glenbeigh,Blues,700,70,52.056866,-9.939388
+05/01/2019,The Moorings,Open Mic,Portmagee,Folk,200,20,51.885752,-10.365726
+06/01/2019,Francie Sheahans,Trad & Co.,Killorglin,Trad,350,35,52.106427,-9.78676
+06/01/2019,Paddy Macs,2 Up,Tralee,Folk,300,30,52.26942,-9.70487
+06/01/2019,McCarthys Bar,Funkadelic,Dingle,Funk,300,30,52.142457,-10.270072
+11/01/2019,Adams,One Man & Guitar,Dingle,Pop,180,18,52.141983,-10.268527
+11/01/2019,An Teach Beag,Open Mic,Tralee,Folk,200,20,52.269656,-9.705905
+11/01/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+11/01/2019,Droichead Beag,True Blues,Dingle,Blues,450,45,52.141239,-10.2671
+11/01/2019,Mike the Pies,Rock On,Listowel,Rock,500,50,52.44897,-9.486242
+11/01/2019,McCarthys Bar,Wedding Band,Dingle,Pop,900,90,52.142457,-10.270072
+11/01/2019,The Blasket,Hip Hop Hippies,Tralee,Hip Hop,250,25,52.269282,-9.703693
+12/01/2019,An Teach Beag,Cool Sounds,Tralee,Jazz,400,40,52.269656,-9.705905
+12/01/2019,Bunker Bar,I'm Not Here,Ballybunion,Rock,350,35,52.511684,-9.673933
+12/01/2019,Droichead Beag,Open Mic,Dingle,Folk,200,20,52.141239,-10.2671
+12/01/2019,Nelliefreds,True Blues,Dingle,Blues,450,45,52.141535,-10.266102
+12/01/2019,Mike the Pies,Wedding Band,Listowel,Pop,900,90,52.44897,-9.486242
+12/01/2019,The Fiddler,One Man & Guitar,Tralee,Pop,180,18,52.269581,-9.706692
+12/01/2019,The Mermaids,Funkadelic,Listowel,Funk,300,30,52.447852,-9.485744
+12/01/2019,West End Bar,Jimmy Smith,Fenit,Blues,150,15,52.277051,-9.864408
+13/01/2019,Paddy Macs,I'm Not Here,Tralee,Rock,350,35,52.26942,-9.70487
+13/01/2019,Francie Sheahans,Ceili Band,Killorglin,Trad,500,50,52.106427,-9.78676
+13/01/2019,K-Town Bar,Funkadelic,Killarney,Funk,300,30,52.057984,-9.510675
+18/01/2019,An Teach Beag,One Man & Guitar,Tralee,Pop,180,18,52.269656,-9.705905
+18/01/2019,Paddy Macs,Open Mic,Tralee,Folk,200,20,52.26942,-9.70487
+18/01/2019,The Barn,Rock On,Killorglin,Rock,500,50,52.106022,-9.786859
+18/01/2019,The Blasket,True Blues,Tralee,Blues,450,45,52.269282,-9.703693
+18/01/2019,The Dingle Bar,Nixer,Dingle,Trad,250,25,52.141561,-10.267872
+19/01/2019,Adams,Country Cousins,Dingle,Country,750,75,52.141983,-10.268527
+19/01/2019,An Teach Beag,Joe Bloggs,Tralee,Pop,250,25,52.269656,-9.705905
+19/01/2019,The Blasket,Funkadelic,Tralee,Funk,300,30,52.269282,-9.703693
+19/01/2019,Bunkers Bar,Jimmy Smith,Killorglin,Blues,150,15,52.106742,-9.788117
+19/01/2019,The Fiddler,Nixer,Tralee,Trad,250,25,52.269581,-9.706692
+19/01/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+20/01/2019,An Teach Beag,I'm Not Here,Tralee,Rock,350,35,52.269656,-9.705905
+20/01/2019,Paddy Macs,Deal Me In,Tralee,Blues,700,70,52.26942,-9.70487
+20/01/2019,Mike the Pies,Funkadelic,Listowel,Funk,300,30,52.44897,-9.486242
+20/01/2019,The Blasket,Rock On,Tralee,Rock,500,50,52.269282,-9.703693
+25/01/2019,An Teach Beag,Jimmy Smith,Tralee,Blues,150,15,52.269656,-9.705905
+25/01/2019,Paddy Macs,2 Up,Tralee,Folk,300,30,52.26942,-9.70487
+26/01/2019,Adams,Joe Bloggs,Dingle,Pop,250,25,52.141983,-10.268527
+26/01/2019,An Teach Beag,Open Mic,Tralee,Folk,200,20,52.269656,-9.705905
+26/01/2019,Bailys Corner,One Man & Guitar,Tralee,Pop,180,18,52.269314,-9.703899
+26/01/2019,Bunkers Bar,Nixer,Killorglin,Trad,250,25,52.106742,-9.788117
+26/01/2019,Droichead Beag,Moondog,Dingle,Folk,200,20,52.141239,-10.2671
+26/01/2019,Greyhound Bar,Rock On,Tralee,Rock,500,50,52.271646,-9.708596
+26/01/2019,The Blasket,2 Up,Tralee,Folk,300,30,52.269282,-9.703693
+26/01/2019,The Half Barrel,Country Cousins,Castleisland,Country,750,75,52.230893,-9.4638
+26/01/2019,Scotts Hotel,Wedding Band,Killarney,Pop,900,90,52.059394,-9.505438
+26/01/2019,Towers (Scruffys),Trad & Co.,Killarney,Trad,350,35,52.058663,-9.507248
+27/01/2019,Ashes Bar,Ceili Band,Glenbeigh,Trad,500,50,52.056557,-9.939806
+01/02/2019,An Teach Beag,One Man & Guitar,Tralee,Pop,180,18,52.269656,-9.705905
+01/02/2019,The Fiddler,Jimmy Smith,Tralee,Blues,150,15,52.269581,-9.706692
+01/02/2019,The Blasket,I'm Not Here,Tralee,Rock,350,35,52.269282,-9.703693
+02/02/2019,Adams,Moondog,Dingle,Folk,200,20,52.141983,-10.268527
+02/02/2019,An Teach Beag,Cool Sounds,Tralee,Jazz,400,40,52.269656,-9.705905
+02/02/2019,Bailys Corner,Open Mic,Tralee,Folk,200,20,52.269314,-9.703899
+02/02/2019,Droichead Beag,One Man & Guitar,Dingle,Pop,180,18,52.141239,-10.2671
+02/02/2019,Greyhound Bar,True Blues,Tralee,Blues,450,45,52.271646,-9.708596
+02/02/2019,Mike the Pies,Hip Hop Hippies,Listowel,Hip Hop,250,25,52.44897,-9.486242
+02/02/2019,The Blasket,Wedding Band,Tralee,Pop,900,90,52.269282,-9.703693
+02/02/2019,West End Bar,Jimmy Smith,Fenit,Blues,150,15,52.277051,-9.864408
+03/02/2019,Ashes Bar,Trad & Co.,Glenbeigh,Trad,350,35,52.056557,-9.939806
+03/02/2019,Francie Sheahans,2 Up,Killorglin,Folk,300,30,52.106427,-9.78676
+08/02/2019,Imperial Hotel,Jimmy Smith,Tralee,Blues,150,15,52.268645,-9.705227
+08/02/2019,Bunker Bar,Nixer,Ballybunion,Trad,250,25,52.511684,-9.673933
+08/02/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+09/02/2019,Adams,Country Cousins,Dingle,Country,750,75,52.141983,-10.268527
+09/02/2019,An Teach Beag,I'm Not Here,Tralee,Rock,350,35,52.269656,-9.705905
+09/02/2019,Mike the Pies,2 Up,Listowel,Folk,300,30,52.44897,-9.486242
+09/02/2019,The Blasket,True Blues,Tralee,Blues,450,45,52.269282,-9.703693
+09/02/2019,K-Town Bar,Hip Hop Hippies,Killarney,Hip Hop,250,25,52.057984,-9.510675
+10/02/2019,Ashes Bar,Country Cousins,Glenbeigh,Country,750,75,52.056557,-9.939806
+10/02/2019,Francie Sheahans,Trad & Co.,Killorglin,Trad,350,35,52.106427,-9.78676
+15/02/2019,Bailys Corner,One Man & Guitar,Tralee,Pop,180,18,52.269314,-9.703899
+15/02/2019,Droichead Beag,True Blues,Dingle,Blues,450,45,52.141239,-10.2671
+15/02/2019,O'Connors,2 Up,Castlegregory,Folk,300,30,52.235221,-10.182286
+15/02/2019,Kingstons Bar,I'm Not Here,Killorglin,Rock,350,35,52.106473,-9.785792
+16/02/2019,Adams,I'm Not Here,Dingle,Rock,350,35,52.141983,-10.268527
+16/02/2019,Paddy Macs,Hip Hop Hippies,Tralee,Hip Hop,250,25,52.26942,-9.70487
+16/02/2019,Flahives,Jimmy Smith,Ballyheigue,Blues,150,15,52.38957,-9.831604
+16/02/2019,Greyhound Bar,Jazz Company,Tralee,Jazz,600,60,52.271646,-9.708596
+16/02/2019,McCarthys Bar,Joe Bloggs,Dingle,Pop,250,25,52.142457,-10.270072
+16/02/2019,Mike the Pies,Rock On,Listowel,Rock,500,50,52.44897,-9.486242
+16/02/2019,McCarthys Bar,2 Up,Dingle,Folk,300,30,52.142457,-10.270072
+16/02/2019,O'Riada's,Nixer,Castleisland,Trad,250,25,52.251403,-9.547925
+17/02/2019,Kingstons Bar,2 Up,Killorglin,Folk,300,30,52.106473,-9.785792
+22/02/2019,An Teach Beag,Joe Bloggs,Tralee,Pop,250,25,52.269656,-9.705905
+23/02/2019,Bailys Corner,Open Mic,Tralee,Folk,200,20,52.269314,-9.703899
+24/02/2019,Bunkers Bar,Moondog,Killorglin,Folk,200,20,52.106742,-9.788117
+01/03/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+01/03/2019,The Crown,Ceili Band,Castleisland,Trad,500,50,52.231298, -9.463085
+02/03/2019,An Teach Beag,Jimmy Smith,Tralee,Blues,150,15,52.269656,-9.705905
+02/03/2019,Greyhound Bar,Hip Hop Hippies,Tralee,Hip Hop,250,25,52.271646,-9.708596
+02/03/2019,McCarthys Bar,Funkadelic,Dingle,Funk,300,30,52.142457,-10.270072
+02/03/2019,Mike the Pies,Wedding Band,Listowel,Pop,900,90,52.44897,-9.486242
+02/03/2019,The Barn,Rock On,Killorglin,Rock,500,50,52.106022,-9.786859
+08/03/2019,The Barn,Wedding Band,Killorglin,Pop,900,90,52.106022,-9.786859
+09/03/2019,An Teach Beag,Nixer,Tralee,Trad,250,25,52.269656,-9.705905
+09/03/2019,Mike the Pies,Wedding Band,Listowel,Pop,900,90,52.44897,-9.486242
+09/03/2019,The Blasket,Funkadelic,Tralee,Funk,300,30,52.269282,-9.703693
+10/03/2019,Francie Sheahans,Ceili Band,Killorglin,Trad,500,50,52.106427,-9.78676
+15/03/2019,The Barn,True Blues,Killorglin,Blues,450,45,52.106022,-9.786859
+15/03/2019,Bunkers Bar,Joe Bloggs,Killorglin,Pop,250,25,52.106742,-9.788117
+15/03/2019,An Teach Beag,One Man & Guitar,Tralee,Pop,180,18,52.269656,-9.705905
+15/03/2019,Bailys Corner,I'm Not Here,Tralee,Rock,350,35,52.269314,-9.703899
+15/03/2019,K-Town Bar,Funkadelic,Killarney,Funk,300,30,52.057984,-9.510675
+16/03/2019,An Teach Beag,Open Mic,Tralee,Folk,200,20,52.269656,-9.705905
+16/03/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+16/03/2019,Courtneys Killarney,Ceili Band,Killarney,Trad,500,50,52.058761,-9.508128
+16/03/2019,Danny Mann Inn,Trad & Co.,Killarney,Trad,350,35,52.058943,-9.51055
+16/03/2019,McCarthys Bar,Wedding Band,Dingle,Pop,900,90,52.142457,-10.270072
+16/03/2019,Mike the Pies,2 Up,Listowel,Folk,300,30,52.44897,-9.486242
+16/03/2019,McSorleys,Funkadelic,Killarney,Funk,300,30,52.059443,-9.506715
+16/03/2019,The Blasket,Rock On,Tralee,Rock,500,50,52.269282,-9.703693
+16/03/2019,Greyhound Bar,True Blues,Tralee,Blues,450,45,52.271646,-9.708596
+17/03/2019,Adams,Funkadelic,Dingle,Funk,300,30,52.141983,-10.268527
+17/03/2019,An Teach Beag,Cool Sounds,Tralee,Jazz,400,40,52.269656,-9.705905
+17/03/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+17/03/2019,Bunkers Bar,Jimmy Smith,Killorglin,Blues,150,15,52.106742,-9.788117
+17/03/2019,Cahernane House Hotel,Jazz Company,Killarney,Jazz,600,60,52.043426,-9.509944
+17/03/2019,Cliffords Tavern,I'm Not Here,Killorglin,Rock,350,35,52.106782,-9.78761
+17/03/2019,Fitzgeralds,Country Cousins,Castlegregory,Country,750,75,52.256495,-10.021126
+17/03/2019,Francie Sheahans,2 Up,Killorglin,Folk,300,30,52.106427,-9.78676
+17/03/2019,Grand Hotel,Trad & Co.,Tralee,Trad,350,35,52.269176,-9.705026
+17/03/2019,Jack's Coastguard,Ceili Band,Killorglin,Trad,500,50,52.111627,-9.902396
+17/03/2019,McCarthys Bar,Joe Bloggs,Dingle,Pop,250,25,52.142457,-10.270072
+17/03/2019,McElligotts,Moondog,Ardfert,Folk,200,20,52.32742,-9.780851
+17/03/2019,Paddy Macs,Nixer,Tralee,Trad,250,25,52.26942,-9.70487
+17/03/2019,Mike the Pies,Hip Hop Hippies,Listowel,Hip Hop,250,25,52.44897,-9.486242
+17/03/2019,O'Riada's,Jimmy Smith,Castleisland,Blues,150,15,52.251403,-9.547925
+17/03/2019,Paddy Macs,Open Mic,Tralee,Folk,200,20,52.26942,-9.70487
+17/03/2019,The Blasket,One Man & Guitar,Tralee,Pop,180,18,52.269282,-9.703693
+22/03/2019,The Moorings,Jimmy Smith,Portmagee,Blues,150,15,51.885752,-10.365726
+22/03/2019,Bunkers Bar,One Man & Guitar,Killorglin,Pop,180,18,52.106742,-9.788117
+22/03/2019,The Barn,Rock On,Killorglin,Rock,500,50,52.106022,-9.786859
+23/03/2019,Bailys Corner,One Man & Guitar,Tralee,Pop,180,18,52.269314,-9.703899
+23/03/2019,Greyhound Bar,Jazz Company,Tralee,Jazz,600,60,52.271646,-9.708596
+23/03/2019,McCarthys Bar,Nixer,Dingle,Trad,250,25,52.142457,-10.270072
+23/03/2019,The Blasket,I'm Not Here,Tralee,Rock,350,35,52.269282,-9.703693
+23/03/2019,The Fiddler,2 Up,Tralee,Folk,300,30,52.269581,-9.706692
+23/03/2019,Scotts Hotel,Rock On,Killarney,Rock,500,50,52.059394,-9.505438
+23/03/2019,McSorleys,Hip Hop Hippies,Killarney,Hip Hop,250,25,52.059443,-9.506715
+23/03/2019,Porter House,Trad & Co.,Killarney,Trad,350,35,52.058737,-9.508345
+13/04/2019,The Barn,Funkadelic,Killorglin,Funk,300,30,52.106022,-9.786859
+14/04/2019,Ross Point,Deal Me In,Glenbeigh,Blues,700,70,52.053679,-9.97643
+15/04/2019,Ballintaggart House,2 Up,Dingle,Folk,300,30,52.130627,-10.248302
+20/04/2019,An Teach Beag,Joe Bloggs,Tralee,Pop,250,25,52.269656,-9.705905
+20/04/2019,Spillanes,Ceili Band,Castlegregory,Trad,500,50,52.303324,-10.040071
+20/04/2019,The Blasket,Wedding Band,Tralee,Pop,900,90,52.269282,-9.703693
+20/04/2019,McCarthys Bar,I'm Not Here,Dingle,Rock,350,35,52.142457,-10.270072
+20/04/2019,The Dingle Bar,Nixer,Dingle,Trad,250,25,52.141561,-10.267872
+20/04/2019,Bunker Bar,Rock On,Ballybunion,Rock,500,50,52.511684,-9.673933
+20/04/2019,The Oyster Tavern,Jazz Company,Tralee,Jazz,600,60,52.276136,-9.78054
+26/04/2019,The Barn,Wedding Band,Killorglin,Pop,900,90,52.106022,-9.786859
+26/04/2019,Bailys Corner,Open Mic,Tralee,Folk,200,20,52.269314,-9.703899
+26/04/2019,O'Connors,I'm Not Here,Castlegregory,Rock,350,35,52.235221,-10.182286
+27/04/2019,Greyhound Bar,True Blues,Tralee,Blues,450,45,52.271646,-9.708596
+27/04/2019,Mike the Pies,Wedding Band,Listowel,Pop,900,90,52.44897,-9.486242
+27/04/2019,McCarthys Bar,2 Up,Dingle,Folk,300,30,52.142457,-10.270072
+27/04/2019,McSorleys,Rock On,Killarney,Rock,500,50,52.059443,-9.506715
+27/04/2019,The Blasket,Country Cousins,Tralee,Country,750,75,52.269282,-9.703693
+27/04/2019,Paddy Macs,Deal Me In,Tralee,Blues,700,70,52.26942,-9.70487
+27/04/2019,The Marina,Joe Bloggs,Dingle,Pop,250,25,52.139386,-10.274948
+03/05/2019,The Barn,Rock On,Killorglin,Rock,500,50,52.106022,-9.786859
+03/05/2019,Adams,Moondog,Dingle,Folk,200,20,52.141983,-10.268527
+03/05/2019,An Teach Beag,I'm Not Here,Tralee,Rock,350,35,52.269656,-9.705905
+03/05/2019,Kingstons Bar,Deal Me In,Killorglin,Blues,700,70,52.106473,-9.785792
+03/05/2019,O'Riada's,One Man & Guitar,Castleisland,Pop,180,18,52.251403,-9.547925
+03/05/2019,Imperial Hotel,Joe Bloggs,Tralee,Pop,250,25,52.268645,-9.705227
+03/05/2019,Paddy Macs,2 Up,Tralee,Folk,300,30,52.26942,-9.70487
+03/05/2019,The Crown,Trad & Co.,Castleisland,Trad,350,35,52.231298, -9.463085
+04/05/2019,Adams,Deal Me In,Dingle,Blues,700,70,52.141983,-10.268527
+04/05/2019,An Teach Beag,One Man & Guitar,Tralee,Pop,180,18,52.269656,-9.705905
+04/05/2019,Bailys Corner,Jimmy Smith,Tralee,Blues,150,15,52.269314,-9.703899
+04/05/2019,Bunkers Bar,Nixer,Killorglin,Trad,250,25,52.106742,-9.788117
+04/05/2019,Cliffords Tavern,I'm Not Here,Killorglin,Rock,350,35,52.106782,-9.78761
+04/05/2019,Droichead Beag,Open Mic,Dingle,Folk,200,20,52.141239,-10.2671
+04/05/2019,Fitzgeralds,Cool Sounds,Castlegregory,Jazz,400,40,52.256495,-10.021126
+04/05/2019,Greyhound Bar,Hip Hop Hippies,Tralee,Hip Hop,250,25,52.271646,-9.708596
+04/05/2019,McCarthys Bar,Joe Bloggs,Dingle,Pop,250,25,52.142457,-10.270072
+04/05/2019,Mike the Pies,Rock On,Listowel,Rock,500,50,52.44897,-9.486242
+04/05/2019,Nelliefreds,Jazz Company,Dingle,Jazz,600,60,52.141535,-10.266102
+04/05/2019,Scotts Hotel,True Blues,Killarney,Blues,450,45,52.059394,-9.505438
+04/05/2019,The Blasket,Funkadelic,Tralee,Funk,300,30,52.269282,-9.703693
+04/05/2019,The Half Barrel,Cool Sounds,Castleisland,Jazz,400,40,52.230893,-9.4638
+04/05/2019,The Oyster Tavern,2 Up,Tralee,Folk,300,30,52.276136,-9.78054
+05/05/2019,Bailys Corner,One Man & Guitar,Tralee,Pop,180,18,52.269314,-9.703899
+05/05/2019,Cliffords Tavern,Nixer,Killorglin,Trad,250,25,52.106782,-9.78761
+05/05/2019,Francie Sheahans,I'm Not Here,Killorglin,Rock,350,35,52.106427,-9.78676
+05/05/2019,Jack's Coastguard,Ceili Band,Killorglin,Trad,500,50,52.111627,-9.902396
+05/05/2019,Ross Point,Deal Me In,Glenbeigh,Blues,700,70,52.053679,-9.97643
+05/05/2019,Spillanes,Moondog,Castlegregory,Folk,200,20,52.303324,-10.040071
+05/05/2019,The Inn Between,Trad & Co.,Killarney,Trad,350,35,52.069871,-9.635511
+05/05/2019,The Moorings,2 Up,Portmagee,Folk,300,30,51.885752,-10.365726
+05/05/2019,The Oyster Tavern,True Blues,Tralee,Blues,450,45,52.276136,-9.78054
+09/06/2019,The Barn,True Blues,Killorglin,Blues,450,45,52.106022,-9.786859
+09/06/2019,Bunker Bar,Joe Bloggs,Ballybunion,Pop,250,25,52.511684,-9.673933
+09/06/2019,Cliffords Tavern,Open Mic,Killorglin,Folk,200,20,52.106782,-9.78761
+09/06/2019,Danny Mann Inn,Trad & Co.,Killarney,Trad,350,35,52.058943,-9.51055
+09/06/2019,Greyhound Bar,Jazz Company,Tralee,Jazz,600,60,52.271646,-9.708596
+09/06/2019,Kingstons Bar,Nixer,Killorglin,Trad,250,25,52.106473,-9.785792
+09/06/2019,The Fiddler,Deal Me In,Tralee,Blues,700,70,52.269581,-9.706692
+09/06/2019,The Crown,Ceili Band,Castleisland,Trad,500,50,52.231298, -9.463085
+09/06/2019,Porter House,Country Cousins,Killarney,Country,750,75,52.058737,-9.508345
+09/06/2019,The Marina,Jimmy Smith,Dingle,Blues,150,15,52.139386,-10.274948
+10/06/2019,Adams,Nixer,Dingle,Trad,250,25,52.141983,-10.268527
+10/06/2019,Ross Point,Joe Bloggs,Glenbeigh,Pop,250,25,52.053679,-9.97643
+10/06/2019,Bailys Corner,Open Mic,Tralee,Folk,200,20,52.269314,-9.703899
+14/06/2019,The Barn,Rock On,Killorglin,Rock,500,50,52.106022,-9.786859
+14/06/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+15/06/2019,Bailys Corner,One Man & Guitar,Tralee,Pop,180,18,52.269314,-9.703899
+15/06/2019,Greyhound Bar,Rock On,Tralee,Rock,500,50,52.271646,-9.708596
+15/06/2019,McCarthys Bar,2 Up,Dingle,Folk,300,30,52.142457,-10.270072
+15/06/2019,Mike the Pies,Hip Hop Hippies,Listowel,Hip Hop,250,25,52.44897,-9.486242
+15/06/2019,The Blasket,Funkadelic,Tralee,Funk,300,30,52.269282,-9.703693
+15/06/2019,The Half Barrel,Country Cousins,Castleisland,Country,750,75,52.230893,-9.4638
+15/06/2019,Spillanes,I'm Not Here,Castlegregory,Rock,350,35,52.303324,-10.040071
+15/06/2019,The Inn Between,Trad & Co.,Killarney,Trad,350,35,52.069871,-9.635511
+15/06/2019,The Junction Bar,Open Mic,Tralee,Folk,200,20,52.226443,-9.891939
+15/06/2019,Towers (O'Donoghue),Jimmy Smith,Killarney,Blues,150,15,52.059137,-9.506438
+16/06/2019,Jack's Coastguard,Deal Me In,Killorglin,Blues,700,70,52.111627,-9.902396
+16/06/2019,Ross Point,Open Mic,Glenbeigh,Folk,200,20,52.053679,-9.97643
+16/06/2019,Fitzgeralds,True Blues,Castlegregory,Blues,450,45,52.256495,-10.021126
+21/06/2019,Bailys Corner,Open Mic,Tralee,Folk,200,20,52.269314,-9.703899
+21/06/2019,The Barn,Wedding Band,Killorglin,Pop,900,90,52.106022,-9.786859
+21/06/2019,Mike the Pies,2 Up,Listowel,Folk,300,30,52.44897,-9.486242
+21/06/2019,Bunker Bar,I'm Not Here,Ballybunion,Rock,350,35,52.511684,-9.673933
+21/06/2019,Spillanes,Nixer,Castlegregory,Trad,250,25,52.303324,-10.040071
+21/06/2019,McSorleys,Funkadelic,Killarney,Funk,300,30,52.059443,-9.506715
+22/06/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+22/06/2019,Bunkers Bar,Moondog,Killorglin,Folk,200,20,52.106742,-9.788117
+22/06/2019,Droichead Beag,Jimmy Smith,Dingle,Blues,150,15,52.141239,-10.2671
+22/06/2019,Failte Hotel,Country Cousins,Killarney,Country,750,75,52.059402,-9.506768
+22/06/2019,Greyhound Bar,Hip Hop Hippies,Tralee,Hip Hop,250,25,52.271646,-9.708596
+22/06/2019,McCarthys Bar,Funkadelic,Dingle,Funk,300,30,52.142457,-10.270072
+22/06/2019,Mike the Pies,Rock On,Listowel,Rock,500,50,52.44897,-9.486242
+22/06/2019,Paddy Macs,Rock On,Tralee,Rock,500,50,52.26942,-9.70487
+22/06/2019,The Blasket,Nixer,Tralee,Trad,250,25,52.269282,-9.703693
+22/06/2019,The Junction Bar,2 Up,Tralee,Folk,300,30,52.226443,-9.891939
+22/06/2019,The Moorings,Joe Bloggs,Portmagee,Pop,250,25,51.885752,-10.365726
+23/06/2019,Jack's Coastguard,Open Mic,Killorglin,Folk,200,20,52.111627,-9.902396
+28/06/2019,The Barn,Funkadelic,Killorglin,Funk,300,30,52.106022,-9.786859
+28/06/2019,Bailys Corner,One Man & Guitar,Tralee,Pop,180,18,52.269314,-9.703899
+28/06/2019,O'Riada's,I'm Not Here,Castleisland,Rock,350,35,52.251403,-9.547925
+29/06/2019,Adams,Joe Bloggs,Dingle,Pop,250,25,52.141983,-10.268527
+29/06/2019,Mike the Pies,Funkadelic,Listowel,Funk,300,30,52.44897,-9.486242
+29/06/2019,The Blasket,One Man & Guitar,Tralee,Pop,180,18,52.269282,-9.703693
+30/06/2019,Ashes Bar,Ceili Band,Glenbeigh,Trad,500,50,52.056557,-9.939806
+05/07/2019,Cahernane House Hotel,Cool Sounds,Killarney,Jazz,400,40,52.043426,-9.509944
+05/07/2019,Courtneys Killarney,Trad & Co.,Killarney,Trad,350,35,52.058761,-9.508128
+05/07/2019,Danny Mann Inn,Ceili Band,Killarney,Trad,500,50,52.058943,-9.51055
+05/07/2019,Failte Hotel,Country Cousins,Killarney,Country,750,75,52.059402,-9.506768
+05/07/2019,K-Town Bar,Rock On,Killarney,Rock,500,50,52.057984,-9.510675
+05/07/2019,McSorleys,Hip Hop Hippies,Killarney,Hip Hop,250,25,52.059443,-9.506715
+05/07/2019,Porter House,True Blues,Killarney,Blues,450,45,52.058737,-9.508345
+05/07/2019,The Blasket,Wedding Band,Tralee,Pop,900,90,52.269282,-9.703693
+06/07/2019,Adams,Moondog,Dingle,Folk,200,20,52.141983,-10.268527
+06/07/2019,An Teach Beag,Joe Bloggs,Tralee,Pop,250,25,52.269656,-9.705905
+06/07/2019,Bailys Corner,Open Mic,Tralee,Folk,200,20,52.269314,-9.703899
+06/07/2019,Bunkers Bar,Jimmy Smith,Killorglin,Blues,150,15,52.106742,-9.788117
+06/07/2019,Cahernane House Hotel,Jazz Company,Killarney,Jazz,600,60,52.043426,-9.509944
+06/07/2019,Cliffords Tavern,I'm Not Here,Killorglin,Rock,350,35,52.106782,-9.78761
+06/07/2019,Droichead Beag,Cool Sounds,Dingle,Jazz,400,40,52.141239,-10.2671
+06/07/2019,Flahives,Funkadelic,Ballyheigue,Funk,300,30,52.38957,-9.831604
+06/07/2019,Greyhound Bar,Cool Sounds,Tralee,Jazz,400,40,52.271646,-9.708596
+06/07/2019,McCarthys Bar,Wedding Band,Dingle,Pop,900,90,52.142457,-10.270072
+06/07/2019,Mike the Pies,Rock On,Listowel,Rock,500,50,52.44897,-9.486242
+06/07/2019,Paddy Macs,One Man & Guitar,Tralee,Pop,180,18,52.26942,-9.70487
+06/07/2019,The Blasket,True Blues,Tralee,Blues,450,45,52.269282,-9.703693
+06/07/2019,The Moorings,Deal Me In,Portmagee,Blues,700,70,51.885752,-10.365726
+06/07/2019,The Junction Bar,Nixer,Tralee,Trad,250,25,52.226443,-9.891939
+07/07/2019,Ashes Bar,Joe Bloggs,Glenbeigh,Pop,250,25,52.056557,-9.939806
+07/07/2019,Cliffords Tavern,Nixer,Killorglin,Trad,250,25,52.106782,-9.78761
+07/07/2019,Francie Sheahans,Open Mic,Killorglin,Folk,200,20,52.106427,-9.78676
+07/07/2019,Jack's Coastguard,Trad & Co.,Killorglin,Trad,350,35,52.111627,-9.902396
+07/07/2019,Spillanes,Ceili Band,Castlegregory,Trad,500,50,52.303324,-10.040071
+12/07/2019,The Barn,Deal Me In,Killorglin,Blues,700,70,52.106022,-9.786859
+12/07/2019,Bunkers Bar,Open Mic,Killorglin,Folk,200,20,52.106742,-9.788117
+12/07/2019,The Fiddler,Nixer,Tralee,Trad,250,25,52.269581,-9.706692
+12/07/2019,O'Riada's,Jimmy Smith,Castleisland,Blues,150,15,52.251403,-9.547925
+12/07/2019,The Oyster Tavern,Jazz Company,Tralee,Jazz,600,60,52.276136,-9.78054
+13/07/2019,Adams,I'm Not Here,Dingle,Rock,350,35,52.141983,-10.268527
+13/07/2019,An Teach Beag,Open Mic,Tralee,Folk,200,20,52.269656,-9.705905
+13/07/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+13/07/2019,Bunkers Bar,Joe Bloggs,Killorglin,Pop,250,25,52.106742,-9.788117
+13/07/2019,Droichead Beag,True Blues,Dingle,Blues,450,45,52.141239,-10.2671
+13/07/2019,Greyhound Bar,Jazz Company,Tralee,Jazz,600,60,52.271646,-9.708596
+13/07/2019,McCarthys Bar,Nixer,Dingle,Trad,250,25,52.142457,-10.270072
+13/07/2019,McSorleys,Rock On,Killarney,Rock,500,50,52.059443,-9.506715
+13/07/2019,Mike the Pies,Hip Hop Hippies,Listowel,Hip Hop,250,25,52.44897,-9.486242
+13/07/2019,Nelliefreds,True Blues,Dingle,Blues,450,45,52.141535,-10.266102
+13/07/2019,McCarthys Bar,2 Up,Dingle,Folk,300,30,52.142457,-10.270072
+13/07/2019,Porter House,Ceili Band,Killarney,Trad,500,50,52.058737,-9.508345
+13/07/2019,The Barn,Rock On,Killorglin,Rock,500,50,52.106022,-9.786859
+13/07/2019,The Half Barrel,Country Cousins,Castleisland,Country,750,75,52.230893,-9.4638
+13/07/2019,The Junction Bar,Jimmy Smith,Tralee,Blues,150,15,52.226443,-9.891939
+13/07/2019,The Moorings,One Man & Guitar,Portmagee,Pop,180,18,51.885752,-10.365726
+13/07/2019,West End Bar,Joe Bloggs,Fenit,Pop,250,25,52.277051,-9.864408
+14/07/2019,Ashes Bar,Country Cousins,Glenbeigh,Country,750,75,52.056557,-9.939806
+14/07/2019,Francie Sheahans,Ceili Band,Killorglin,Trad,500,50,52.106427,-9.78676
+14/07/2019,Jack's Coastguard,Trad & Co.,Killorglin,Trad,350,35,52.111627,-9.902396
+14/07/2019,Ross Point,Deal Me In,Glenbeigh,Blues,700,70,52.053679,-9.97643
+14/07/2019,Spillanes,Moondog,Castlegregory,Folk,200,20,52.303324,-10.040071
+14/07/2019,The Moorings,Jimmy Smith,Portmagee,Blues,150,15,51.885752,-10.365726
+14/07/2019,The Oyster Tavern,True Blues,Tralee,Blues,450,45,52.276136,-9.78054
+19/07/2019,The Barn,Wedding Band,Killorglin,Pop,900,90,52.106022,-9.786859
+19/07/2019,Bunker Bar,Nixer,Ballybunion,Trad,250,25,52.511684,-9.673933
+19/07/2019,Bailys Corner,One Man & Guitar,Tralee,Pop,180,18,52.269314,-9.703899
+19/07/2019,K-Town Bar,Rock On,Killarney,Rock,500,50,52.057984,-9.510675
+19/07/2019,O'Connors,Jimmy Smith,Castlegregory,Blues,150,15,52.235221,-10.182286
+19/07/2019,O'Riada's,Joe Bloggs,Castleisland,Pop,250,25,52.251403,-9.547925
+19/07/2019,The Junction Bar,Deal Me In,Tralee,Blues,700,70,52.226443,-9.891939
+19/07/2019,Towers (O'Donoghue),I'm Not Here,Killarney,Rock,350,35,52.059137,-9.506438
+20/07/2019,Bailys Corner,Open Mic,Tralee,Folk,200,20,52.269314,-9.703899
+20/07/2019,Bunkers Bar,Nixer,Killorglin,Trad,250,25,52.106742,-9.788117
+20/07/2019,Fitzgeralds,Country Cousins,Castlegregory,Country,750,75,52.256495,-10.021126
+20/07/2019,Greyhound Bar,True Blues,Tralee,Blues,450,45,52.271646,-9.708596
+20/07/2019,Grand Hotel,Rock On,Tralee,Rock,500,50,52.269176,-9.705026
+20/07/2019,McCarthys Bar,Joe Bloggs,Dingle,Pop,250,25,52.142457,-10.270072
+20/07/2019,McElligotts,Jimmy Smith,Ardfert,Blues,150,15,52.32742,-9.780851
+20/07/2019,Mike the Pies,2 Up,Listowel,Folk,300,30,52.44897,-9.486242
+20/07/2019,Nelliefreds,Cool Sounds,Dingle,Jazz,400,40,52.141535,-10.266102
+20/07/2019,The Fiddler,One Man & Guitar,Tralee,Pop,180,18,52.269581,-9.706692
+20/07/2019,Ross Point,I'm Not Here,Glenbeigh,Rock,350,35,52.053679,-9.97643
+20/07/2019,The Barn,Deal Me In,Killorglin,Blues,700,70,52.106022,-9.786859
+20/07/2019,The Blasket,Funkadelic,Tralee,Funk,300,30,52.269282,-9.703693
+20/07/2019,The Inn Between,Trad & Co.,Killarney,Trad,350,35,52.069871,-9.635511
+20/07/2019,The Oyster Tavern,Moondog,Tralee,Folk,200,20,52.276136,-9.78054
+20/07/2019,West End Bar,Hip Hop Hippies,Fenit,Hip Hop,250,25,52.277051,-9.864408
+21/07/2019,Adams,Hip Hop Hippies,Dingle,Hip Hop,250,25,52.141983,-10.268527
+21/07/2019,An Teach Beag,Joe Bloggs,Tralee,Pop,250,25,52.269656,-9.705905
+21/07/2019,Francie Sheahans,Nixer,Killorglin,Trad,250,25,52.106427,-9.78676
+21/07/2019,Greyhound Bar,Funkadelic,Tralee,Funk,300,30,52.271646,-9.708596
+21/07/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+21/07/2019,Mike the Pies,True Blues,Listowel,Blues,450,45,52.44897,-9.486242
+21/07/2019,Kingstons Bar,One Man & Guitar,Killorglin,Pop,180,18,52.106473,-9.785792
+21/07/2019,McCarthys Bar,Jimmy Smith,Dingle,Blues,150,15,52.142457,-10.270072
+21/07/2019,The Blasket,Rock On,Tralee,Rock,500,50,52.269282,-9.703693
+21/07/2019,Spillanes,Moondog,Castlegregory,Folk,200,20,52.303324,-10.040071
+21/07/2019,Ross Point,I'm Not Here,Glenbeigh,Rock,350,35,52.053679,-9.97643
+21/07/2019,The Oyster Tavern,Jazz Company,Tralee,Jazz,600,60,52.276136,-9.78054
+21/07/2019,The Moorings,Open Mic,Portmagee,Folk,200,20,51.885752,-10.365726
+22/07/2019,Jack's Coastguard,Deal Me In,Killorglin,Blues,700,70,52.111627,-9.902396
+22/07/2019,Ross Point,Open Mic,Glenbeigh,Folk,200,20,52.053679,-9.97643
+26/07/2019,The Barn,True Blues,Killorglin,Blues,450,45,52.106022,-9.786859
+26/07/2019,Ashes Bar,Jimmy Smith,Glenbeigh,Blues,150,15,52.056557,-9.939806
+26/07/2019,Bunker Bar,Deal Me In,Ballybunion,Blues,700,70,52.511684,-9.673933
+26/07/2019,The Fiddler,Moondog,Tralee,Folk,200,20,52.269581,-9.706692
+26/07/2019,Kingstons Bar,Ceili Band,Killorglin,Trad,500,50,52.106473,-9.785792
+26/07/2019,McElligotts,Joe Bloggs,Ardfert,Pop,250,25,52.32742,-9.780851
+26/07/2019,The Dingle Bar,One Man & Guitar,Dingle,Pop,180,18,52.141561,-10.267872
+27/07/2019,Adams,Moondog,Dingle,Folk,200,20,52.141983,-10.268527
+27/07/2019,An Teach Beag,Cool Sounds,Tralee,Jazz,400,40,52.269656,-9.705905
+27/07/2019,Bunker Bar,Rock On,Ballybunion,Rock,500,50,52.511684,-9.673933
+27/07/2019,Bunkers Bar,Joe Bloggs,Killorglin,Pop,250,25,52.106742,-9.788117
+27/07/2019,Greyhound Bar,Jazz Company,Tralee,Jazz,600,60,52.271646,-9.708596
+27/07/2019,McCarthys Bar,I'm Not Here,Dingle,Rock,350,35,52.142457,-10.270072
+27/07/2019,The Blasket,Jimmy Smith,Tralee,Blues,150,15,52.269282,-9.703693
+27/07/2019,Nelliefreds,True Blues,Dingle,Blues,450,45,52.141535,-10.266102
+27/07/2019,The Fiddler,2 Up,Tralee,Folk,300,30,52.269581,-9.706692
+27/07/2019,The Junction Bar,Nixer,Tralee,Trad,250,25,52.226443,-9.891939
+28/07/2019,Ashes Bar,Ceili Band,Glenbeigh,Trad,500,50,52.056557,-9.939806
+28/07/2019,Francie Sheahans,2 Up,Killorglin,Folk,300,30,52.106427,-9.78676
+28/07/2019,Jack's Coastguard,Open Mic,Killorglin,Folk,200,20,52.111627,-9.902396
+28/07/2019,Spillanes,Nixer,Castlegregory,Trad,250,25,52.303324,-10.040071
+28/07/2019,Ross Point,Deal Me In,Glenbeigh,Blues,700,70,52.053679,-9.97643
+28/07/2019,West End Bar,Jimmy Smith,Fenit,Blues,150,15,52.277051,-9.864408
+02/08/2019,The Barn,Funkadelic,Killorglin,Funk,300,30,52.106022,-9.786859
+02/08/2019,Bailys Corner,One Man & Guitar,Tralee,Pop,180,18,52.269314,-9.703899
+02/08/2019,Paddy Macs,Open Mic,Tralee,Folk,200,20,52.26942,-9.70487
+02/08/2019,McCarthys Bar,Wedding Band,Dingle,Pop,900,90,52.142457,-10.270072
+02/08/2019,O'Riada's,I'm Not Here,Castleisland,Rock,350,35,52.251403,-9.547925
+03/08/2019,Adams,Country Cousins,Dingle,Country,750,75,52.141983,-10.268527
+03/08/2019,An Teach Beag,Joe Bloggs,Tralee,Pop,250,25,52.269656,-9.705905
+03/08/2019,Bailys Corner,Open Mic,Tralee,Folk,200,20,52.269314,-9.703899
+03/08/2019,Bunkers Bar,I'm Not Here,Killorglin,Rock,350,35,52.106742,-9.788117
+03/08/2019,Droichead Beag,Deal Me In,Dingle,Blues,700,70,52.141239,-10.2671
+03/08/2019,Greyhound Bar,True Blues,Tralee,Blues,450,45,52.271646,-9.708596
+03/08/2019,McCarthys Bar,Funkadelic,Dingle,Funk,300,30,52.142457,-10.270072
+03/08/2019,Imperial Hotel,Moondog,Tralee,Folk,200,20,52.268645,-9.705227
+03/08/2019,McElligotts,One Man & Guitar,Ardfert,Pop,180,18,52.32742,-9.780851
+03/08/2019,Mike the Pies,Hip Hop Hippies,Listowel,Hip Hop,250,25,52.44897,-9.486242
+03/08/2019,The Barn,Rock On,Killorglin,Rock,500,50,52.106022,-9.786859
+03/08/2019,The Blasket,Nixer,Tralee,Trad,250,25,52.269282,-9.703693
+03/08/2019,The Junction Bar,2 Up,Tralee,Folk,300,30,52.226443,-9.891939
+03/08/2019,The Dingle Bar,Jimmy Smith,Dingle,Blues,150,15,52.141561,-10.267872
+03/08/2019,The Oyster Tavern,Cool Sounds,Tralee,Jazz,400,40,52.276136,-9.78054
+04/08/2019,An Teach Beag,One Man & Guitar,Tralee,Pop,180,18,52.269656,-9.705905
+04/08/2019,Flahives,Rock On,Ballyheigue,Rock,500,50,52.38957,-9.831604
+04/08/2019,Jack's Coastguard,Trad & Co.,Killorglin,Trad,350,35,52.111627,-9.902396
+04/08/2019,Francie Sheahans,Ceili Band,Killorglin,Trad,500,50,52.106427,-9.78676
+04/08/2019,Ross Point,Nixer,Glenbeigh,Trad,250,25,52.053679,-9.97643
+04/08/2019,Fitzgeralds,Cool Sounds,Castlegregory,Jazz,400,40,52.256495,-10.021126
+04/08/2019,The Moorings,Joe Bloggs,Portmagee,Pop,250,25,51.885752,-10.365726
+04/08/2019,West End Bar,Moondog,Fenit,Folk,200,20,52.277051,-9.864408
+04/08/2019,Spillanes,I'm Not Here,Castlegregory,Rock,350,35,52.303324,-10.040071
+04/08/2019,The Junction Bar,Open Mic,Tralee,Folk,200,20,52.226443,-9.891939
+09/08/2019,Ashes Bar,Trad & Co.,Glenbeigh,Trad,350,35,52.056557,-9.939806
+09/08/2019,Jack's Coastguard,One Man & Guitar,Killorglin,Pop,180,18,52.111627,-9.902396
+09/08/2019,McElligotts,I'm Not Here,Ardfert,Rock,350,35,52.32742,-9.780851
+09/08/2019,Spillanes,Ceili Band,Castlegregory,Trad,500,50,52.303324,-10.040071
+09/08/2019,The Oyster Tavern,Deal Me In,Tralee,Blues,700,70,52.276136,-9.78054
+10/08/2019,The Barn,Wedding Band,Killorglin,Pop,900,90,52.106022,-9.786859
+10/08/2019,An Teach Beag,Joe Bloggs,Tralee,Pop,250,25,52.269656,-9.705905
+10/08/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+10/08/2019,K-Town Bar,Funkadelic,Killarney,Funk,300,30,52.057984,-9.510675
+10/08/2019,O'Riada's,I'm Not Here,Castleisland,Rock,350,35,52.251403,-9.547925
+10/08/2019,The Half Barrel,Cool Sounds,Castleisland,Jazz,400,40,52.230893,-9.4638
+10/08/2019,Kingstons Bar,2 Up,Killorglin,Folk,300,30,52.106473,-9.785792
+10/08/2019,Bunkers Bar,One Man & Guitar,Killorglin,Pop,180,18,52.106742,-9.788117
+10/08/2019,Francie Sheahans,Ceili Band,Killorglin,Trad,500,50,52.106427,-9.78676
+10/08/2019,Cliffords Tavern,Jimmy Smith,Killorglin,Blues,150,15,52.106782,-9.78761
+11/08/2019,The Barn,Deal Me In,Killorglin,Blues,700,70,52.106022,-9.786859
+11/08/2019,Bunkers Bar,Joe Bloggs,Killorglin,Pop,250,25,52.106742,-9.788117
+11/08/2019,Cliffords Tavern,I'm Not Here,Killorglin,Rock,350,35,52.106782,-9.78761
+11/08/2019,Francie Sheahans,Nixer,Killorglin,Trad,250,25,52.106427,-9.78676
+16/08/2019,Kingstons Bar,Deal Me In,Killorglin,Blues,700,70,52.106473,-9.785792
+16/08/2019,The Barn,True Blues,Killorglin,Blues,450,45,52.106022,-9.786859
+16/08/2019,Failte Hotel,Country Cousins,Killarney,Country,750,75,52.059402,-9.506768
+16/08/2019,Paddy Macs,Joe Bloggs,Tralee,Pop,250,25,52.26942,-9.70487
+16/08/2019,Bailys Corner,One Man & Guitar,Tralee,Pop,180,18,52.269314,-9.703899
+16/08/2019,Spillanes,Moondog,Castlegregory,Folk,200,20,52.303324,-10.040071
+17/08/2019,Greyhound Bar,Rock On,Tralee,Rock,500,50,52.271646,-9.708596
+17/08/2019,McCarthys Bar,2 Up,Dingle,Folk,300,30,52.142457,-10.270072
+17/08/2019,Mike the Pies,Wedding Band,Listowel,Pop,900,90,52.44897,-9.486242
+17/08/2019,The Blasket,True Blues,Tralee,Blues,450,45,52.269282,-9.703693
+17/08/2019,The Barn,Funkadelic,Killorglin,Funk,300,30,52.106022,-9.786859
+17/08/2019,The Mermaids,Hip Hop Hippies,Listowel,Hip Hop,250,25,52.447852,-9.485744
+17/08/2019,The Moorings,Open Mic,Portmagee,Folk,200,20,51.885752,-10.365726
+17/08/2019,The Oyster Tavern,Jazz Company,Tralee,Jazz,600,60,52.276136,-9.78054
+17/08/2019,Towers (Scruffys),Ceili Band,Killarney,Trad,500,50,52.058663,-9.507248
+17/08/2019,McSorleys,Country Cousins,Killarney,Country,750,75,52.059443,-9.506715
+17/08/2019,The Fiddler,Nixer,Tralee,Trad,250,25,52.269581,-9.706692
+18/08/2019,Ashes Bar,Country Cousins,Glenbeigh,Country,750,75,52.056557,-9.939806
+18/08/2019,Danny Mann Inn,Trad & Co.,Killarney,Trad,350,35,52.058943,-9.51055
+18/08/2019,Jack's Coastguard,Deal Me In,Killorglin,Blues,700,70,52.111627,-9.902396
+18/08/2019,Ross Point,Joe Bloggs,Glenbeigh,Pop,250,25,52.053679,-9.97643
+18/08/2019,Spillanes,One Man & Guitar,Castlegregory,Pop,180,18,52.303324,-10.040071
+23/08/2019,The Barn,Wedding Band,Killorglin,Pop,900,90,52.106022,-9.786859
+23/08/2019,O'Riada's,Nixer,Castleisland,Trad,250,25,52.251403,-9.547925
+23/08/2019,Bunker Bar,I'm Not Here,Ballybunion,Rock,350,35,52.511684,-9.673933
+23/08/2019,The Mermaids,Funkadelic,Listowel,Funk,300,30,52.447852,-9.485744
+24/08/2019,Bailys Corner,Joe Bloggs,Tralee,Pop,250,25,52.269314,-9.703899
+24/08/2019,Bunkers Bar,Nixer,Killorglin,Trad,250,25,52.106742,-9.788117
+24/08/2019,Droichead Beag,Cool Sounds,Dingle,Jazz,400,40,52.141239,-10.2671
+24/08/2019,Fitzgeralds,True Blues,Castlegregory,Blues,450,45,52.256495,-10.021126
+24/08/2019,Greyhound Bar,Jazz Company,Tralee,Jazz,600,60,52.271646,-9.708596
+24/08/2019,Jack's Coastguard,Open Mic,Killorglin,Folk,200,20,52.111627,-9.902396
+24/08/2019,Kingstons Bar,One Man & Guitar,Killorglin,Pop,180,18,52.106473,-9.785792
+24/08/2019,McCarthys Bar,Jimmy Smith,Dingle,Blues,150,15,52.142457,-10.270072
+24/08/2019,Mike the Pies,Hip Hop Hippies,Listowel,Hip Hop,250,25,52.44897,-9.486242
+24/08/2019,Paddy Macs,Deal Me In,Tralee,Blues,700,70,52.26942,-9.70487
+24/08/2019,Spillanes,Ceili Band,Castlegregory,Trad,500,50,52.303324,-10.040071
+24/08/2019,The Blasket,Jimmy Smith,Tralee,Blues,150,15,52.269282,-9.703693
+24/08/2019,The Junction Bar,Moondog,Tralee,Folk,200,20,52.226443,-9.891939
+24/08/2019,West End Bar,I'm Not Here,Fenit,Rock,350,35,52.277051,-9.864408
+25/08/2019,Ashes Bar,Jimmy Smith,Glenbeigh,Blues,150,15,52.056557,-9.939806
+25/08/2019,Jack's Coastguard,Trad & Co.,Killorglin,Trad,350,35,52.111627,-9.902396
+25/08/2019,Spillanes,I'm Not Here,Castlegregory,Rock,350,35,52.303324,-10.040071
+25/08/2019,Ross Point,Open Mic,Glenbeigh,Folk,200,20,52.053679,-9.97643
+25/08/2019,The Moorings,Joe Bloggs,Portmagee,Pop,250,25,51.885752,-10.365726
+30/08/2019,Ashes Bar,Trad & Co.,Glenbeigh,Trad,350,35,52.056557,-9.939806
+30/08/2019,Jack's Coastguard,Ceili Band,Killorglin,Trad,500,50,52.111627,-9.902396
+30/08/2019,Ross Point,Deal Me In,Glenbeigh,Blues,700,70,52.053679,-9.97643
+30/08/2019,Fitzgeralds,Country Cousins,Castlegregory,Country,750,75,52.256495,-10.021126
+30/08/2019,The Barn,Rock On,Killorglin,Rock,500,50,52.106022,-9.786859
+31/08/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+31/08/2019,McCarthys Bar,Joe Bloggs,Dingle,Pop,250,25,52.142457,-10.270072
+31/08/2019,Greyhound Bar,True Blues,Tralee,Blues,450,45,52.271646,-9.708596
+31/08/2019,Mike the Pies,Open Mic,Listowel,Folk,200,20,52.44897,-9.486242
+31/08/2019,The Blasket,Funkadelic,Tralee,Funk,300,30,52.269282,-9.703693
+31/08/2019,The Junction Bar,Nixer,Tralee,Trad,250,25,52.226443,-9.891939
+31/08/2019,O'Connors,I'm Not Here,Castlegregory,Rock,350,35,52.235221,-10.182286
+31/08/2019,The Oyster Tavern,2 Up,Tralee,Folk,300,30,52.276136,-9.78054
+31/08/2019,West End Bar,Jimmy Smith,Fenit,Blues,150,15,52.277051,-9.864408
+01/09/2019,Jack's Coastguard,One Man & Guitar,Killorglin,Pop,180,18,52.111627,-9.902396
+01/09/2019,Francie Sheahans,Trad & Co.,Killorglin,Trad,350,35,52.106427,-9.78676
+06/09/2019,The Barn,Deal Me In,Killorglin,Blues,700,70,52.106022,-9.786859
+06/09/2019,Bailys Corner,One Man & Guitar,Tralee,Pop,180,18,52.269314,-9.703899
+06/09/2019,The Crown,Trad & Co.,Castleisland,Trad,350,35,52.231298, -9.463085
+07/09/2019,Bailys Corner,Open Mic,Tralee,Folk,200,20,52.269314,-9.703899
+07/09/2019,McCarthys Bar,Wedding Band,Dingle,Pop,900,90,52.142457,-10.270072
+07/09/2019,The Blasket,Rock On,Tralee,Rock,500,50,52.269282,-9.703693
+07/09/2019,Mike the Pies,Moondog,Listowel,Folk,200,20,52.44897,-9.486242
+08/09/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+08/09/2019,Jack's Coastguard,Open Mic,Killorglin,Folk,200,20,52.111627,-9.902396
+08/09/2019,Francie Sheahans,Trad & Co.,Killorglin,Trad,350,35,52.106427,-9.78676
+13/09/2019,The Barn,True Blues,Killorglin,Blues,450,45,52.106022,-9.786859
+13/09/2019,Paddy Macs,Jimmy Smith,Tralee,Blues,150,15,52.26942,-9.70487
+13/09/2019,Kingstons Bar,Ceili Band,Killorglin,Trad,500,50,52.106473,-9.785792
+14/09/2019,Greyhound Bar,Cool Sounds,Tralee,Jazz,400,40,52.271646,-9.708596
+14/09/2019,McCarthys Bar,2 Up,Dingle,Folk,300,30,52.142457,-10.270072
+14/09/2019,Mike the Pies,Rock On,Listowel,Rock,500,50,52.44897,-9.486242
+14/09/2019,The Blasket,Moondog,Tralee,Folk,200,20,52.269282,-9.703693
+14/09/2019,Paddy Macs,I'm Not Here,Tralee,Rock,350,35,52.26942,-9.70487
+15/09/2019,Jack's Coastguard,Trad & Co.,Killorglin,Trad,350,35,52.111627,-9.902396
+15/09/2019,Cliffords Tavern,Nixer,Killorglin,Trad,250,25,52.106782,-9.78761
+20/09/2019,The Barn,Wedding Band,Killorglin,Pop,900,90,52.106022,-9.786859
+21/09/2019,McCarthys Bar,Nixer,Dingle,Trad,250,25,52.142457,-10.270072
+21/09/2019,Mike the Pies,Funkadelic,Listowel,Funk,300,30,52.44897,-9.486242
+21/09/2019,The Blasket,One Man & Guitar,Tralee,Pop,180,18,52.269282,-9.703693
+21/09/2019,Scotts Hotel,Wedding Band,Killarney,Pop,900,90,52.059394,-9.505438
+22/09/2019,Jack's Coastguard,Ceili Band,Killorglin,Trad,500,50,52.111627,-9.902396
+27/09/2019,Bailys Corner,I'm Not Here,Tralee,Rock,350,35,52.269314,-9.703899
+27/09/2019,The Barn,Rock On,Killorglin,Rock,500,50,52.106022,-9.786859
+28/09/2019,McCarthys Bar,Funkadelic,Dingle,Funk,300,30,52.142457,-10.270072
+28/09/2019,Mike the Pies,Wedding Band,Listowel,Pop,900,90,52.44897,-9.486242
+28/09/2019,The Blasket,Rock On,Tralee,Rock,500,50,52.269282,-9.703693
+29/09/2019,Francie Sheahans,Ceili Band,Killorglin,Trad,500,50,52.106427,-9.78676
+04/10/2019,The Barn,Funkadelic,Killorglin,Funk,300,30,52.106022,-9.786859
+05/10/2019,McCarthys Bar,Rock On,Dingle,Rock,500,50,52.142457,-10.270072
+05/10/2019,Mike the Pies,2 Up,Listowel,Folk,300,30,52.44897,-9.486242
+05/10/2019,The Blasket,True Blues,Tralee,Blues,450,45,52.269282,-9.703693
+06/10/2019,Jack's Coastguard,Deal Me In,Killorglin,Blues,700,70,52.111627,-9.902396
+06/10/2019,The Half Barrel,Country Cousins,Castleisland,Country,750,75,52.230893,-9.4638
+11/10/2019,The Barn,Deal Me In,Killorglin,Blues,700,70,52.106022,-9.786859
+11/10/2019,Bailys Corner,One Man & Guitar,Tralee,Pop,180,18,52.269314,-9.703899
+12/10/2019,McCarthys Bar,I'm Not Here,Dingle,Rock,350,35,52.142457,-10.270072
+12/10/2019,Mike the Pies,Hip Hop Hippies,Listowel,Hip Hop,250,25,52.44897,-9.486242
+12/10/2019,The Blasket,Funkadelic,Tralee,Funk,300,30,52.269282,-9.703693
+12/10/2019,Scotts Hotel,Rock On,Killarney,Rock,500,50,52.059394,-9.505438
+12/10/2019,Towers (Scruffys),Trad & Co.,Killarney,Trad,350,35,52.058663,-9.507248
+13/10/2019,The Barn,True Blues,Killorglin,Blues,450,45,52.106022,-9.786859
+18/10/2019,The Barn,Wedding Band,Killorglin,Pop,900,90,52.106022,-9.786859
+19/10/2019,Bunkers Bar,Jimmy Smith,Killorglin,Blues,150,15,52.106742,-9.788117
+19/10/2019,The Fiddler,2 Up,Tralee,Folk,300,30,52.269581,-9.706692
+20/10/2019,Francie Sheahans,Nixer,Killorglin,Trad,250,25,52.106427,-9.78676
+25/10/2019,The Barn,Funkadelic,Killorglin,Funk,300,30,52.106022,-9.786859
+25/10/2019,Paddy Macs,Hip Hop Hippies,Tralee,Hip Hop,250,25,52.26942,-9.70487
+26/10/2019,Adams,Joe Bloggs,Dingle,Pop,250,25,52.141983,-10.268527
+26/10/2019,Bailys Corner,Open Mic,Tralee,Folk,200,20,52.269314,-9.703899
+26/10/2019,Bunkers Bar,Moondog,Killorglin,Folk,200,20,52.106742,-9.788117
+26/10/2019,Greyhound Bar,Jazz Company,Tralee,Jazz,600,60,52.271646,-9.708596
+26/10/2019,McCarthys Bar,Jimmy Smith,Dingle,Blues,150,15,52.142457,-10.270072
+26/10/2019,Mike the Pies,Rock On,Listowel,Rock,500,50,52.44897,-9.486242
+26/10/2019,Paddy Macs,I'm Not Here,Tralee,Rock,350,35,52.26942,-9.70487
+26/10/2019,The Blasket,Wedding Band,Tralee,Pop,900,90,52.269282,-9.703693
+26/10/2019,The Barn,Deal Me In,Killorglin,Blues,700,70,52.106022,-9.786859
+26/10/2019,The Moorings,I'm Not Here,Portmagee,Rock,350,35,51.885752,-10.365726
+26/10/2019,Towers (Scruffys),Ceili Band,Killarney,Trad,500,50,52.058663,-9.507248
+27/10/2019,An Teach Beag,Open Mic,Tralee,Folk,200,20,52.269656,-9.705905
+27/10/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+27/10/2019,Cahernane House Hotel,Cool Sounds,Killarney,Jazz,400,40,52.043426,-9.509944
+27/10/2019,Jack's Coastguard,Joe Bloggs,Killorglin,Pop,250,25,52.111627,-9.902396
+27/10/2019,McCarthys Bar,Wedding Band,Dingle,Pop,900,90,52.142457,-10.270072
+27/10/2019,Mike the Pies,Funkadelic,Listowel,Funk,300,30,52.44897,-9.486242
+27/10/2019,The Barn,Hip Hop Hippies,Killorglin,Hip Hop,250,25,52.106022,-9.786859
+27/10/2019,The Blasket,Moondog,Tralee,Folk,200,20,52.269282,-9.703693
+27/10/2019,Greyhound Bar,Rock On,Tralee,Rock,500,50,52.271646,-9.708596
+27/10/2019,Nelliefreds,True Blues,Dingle,Blues,450,45,52.141535,-10.266102
+01/11/2019,The Barn,True Blues,Killorglin,Blues,450,45,52.106022,-9.786859
+01/11/2019,The Blasket,One Man & Guitar,Tralee,Pop,180,18,52.269282,-9.703693
+02/11/2019,Greyhound Bar,Hip Hop Hippies,Tralee,Hip Hop,250,25,52.271646,-9.708596
+02/11/2019,The Blasket,Wedding Band,Tralee,Pop,900,90,52.269282,-9.703693
+02/11/2019,Mike the Pies,Funkadelic,Listowel,Funk,300,30,52.44897,-9.486242
+09/11/2019,Bailys Corner,One Man & Guitar,Tralee,Pop,180,18,52.269314,-9.703899
+09/11/2019,McCarthys Bar,2 Up,Dingle,Folk,300,30,52.142457,-10.270072
+09/11/2019,Mike the Pies,Rock On,Listowel,Rock,500,50,52.44897,-9.486242
+09/11/2019,The Blasket,True Blues,Tralee,Blues,450,45,52.269282,-9.703693
+16/11/2019,An Teach Beag,One Man & Guitar,Tralee,Pop,180,18,52.269656,-9.705905
+16/11/2019,McCarthys Bar,Nixer,Dingle,Trad,250,25,52.142457,-10.270072
+16/11/2019,Mike the Pies,Hip Hop Hippies,Listowel,Hip Hop,250,25,52.44897,-9.486242
+16/11/2019,The Blasket,Funkadelic,Tralee,Funk,300,30,52.269282,-9.703693
+23/11/2019,McCarthys Bar,Funkadelic,Dingle,Funk,300,30,52.142457,-10.270072
+23/11/2019,Mike the Pies,Wedding Band,Listowel,Pop,900,90,52.44897,-9.486242
+23/11/2019,The Blasket,Rock On,Tralee,Rock,500,50,52.269282,-9.703693
+30/11/2019,McCarthys Bar,2 Up,Dingle,Folk,300,30,52.142457,-10.270072
+30/11/2019,Mike the Pies,Rock On,Listowel,Rock,500,50,52.44897,-9.486242
+30/11/2019,The Blasket,Moondog,Tralee,Folk,200,20,52.269282,-9.703693
+06/12/2019,Cahernane House Hotel,Wedding Band,Killarney,Pop,900,90,52.043426,-9.509944
+06/12/2019,Imperial Hotel,One Man & Guitar,Tralee,Pop,180,18,52.268645,-9.705227
+06/12/2019,Grand Hotel,Moondog,Tralee,Folk,200,20,52.269176,-9.705026
+06/12/2019,Scotts Hotel,Funkadelic,Killarney,Funk,300,30,52.059394,-9.505438
+06/12/2019,Towers Hotel,Joe Bloggs,Glenbeigh,Pop,250,25,52.056866,-9.939388
+07/12/2019,Bailys Corner,Open Mic,Tralee,Folk,200,20,52.269314,-9.703899
+07/12/2019,Greyhound Bar,Jazz Company,Tralee,Jazz,600,60,52.271646,-9.708596
+07/12/2019,Mike the Pies,Funkadelic,Listowel,Funk,300,30,52.44897,-9.486242
+07/12/2019,The Blasket,Rock On,Tralee,Rock,500,50,52.269282,-9.703693
+07/12/2019,The Barn,Hip Hop Hippies,Killorglin,Hip Hop,250,25,52.106022,-9.786859
+13/12/2019,Cahernane House Hotel,Jazz Company,Killarney,Jazz,600,60,52.043426,-9.509944
+13/12/2019,Imperial Hotel,Jimmy Smith,Tralee,Blues,150,15,52.268645,-9.705227
+13/12/2019,Grand Hotel,Nixer,Tralee,Trad,250,25,52.269176,-9.705026
+13/12/2019,Scotts Hotel,I'm Not Here,Killarney,Rock,350,35,52.059394,-9.505438
+13/12/2019,Towers Hotel,Deal Me In,Glenbeigh,Blues,700,70,52.056866,-9.939388
+13/12/2019,Greyhound Bar,True Blues,Tralee,Blues,450,45,52.271646,-9.708596
+14/12/2019,Bailys Corner,Deal Me In,Tralee,Blues,700,70,52.269314,-9.703899
+14/12/2019,Greyhound Bar,Cool Sounds,Tralee,Jazz,400,40,52.271646,-9.708596
+14/12/2019,Mike the Pies,Hip Hop Hippies,Listowel,Hip Hop,250,25,52.44897,-9.486242
+14/12/2019,The Blasket,True Blues,Tralee,Blues,450,45,52.269282,-9.703693
+14/12/2019,The Barn,Funkadelic,Killorglin,Funk,300,30,52.106022,-9.786859
+14/12/2019,Adams,I'm Not Here,Dingle,Rock,350,35,52.141983,-10.268527
+14/12/2019,McCarthys Bar,Open Mic,Dingle,Folk,200,20,52.142457,-10.270072
+14/12/2019,Bunker Bar,Nixer,Ballybunion,Trad,250,25,52.511684,-9.673933
+14/12/2019,The Crown,Jimmy Smith,Castleisland,Blues,150,15,52.231298, -9.463085
+14/12/2019,Jack's Coastguard,Trad & Co.,Killorglin,Trad,350,35,52.111627,-9.902396
+14/12/2019,Kingstons Bar,2 Up,Killorglin,Folk,300,30,52.106473,-9.785792
+14/12/2019,The Oyster Tavern,True Blues,Tralee,Blues,450,45,52.276136,-9.78054
+20/12/2019,Cahernane House Hotel,Wedding Band,Killarney,Pop,900,90,52.043426,-9.509944
+20/12/2019,Imperial Hotel,Joe Bloggs,Tralee,Pop,250,25,52.268645,-9.705227
+20/12/2019,Grand Hotel,I'm Not Here,Tralee,Rock,350,35,52.269176,-9.705026
+20/12/2019,Scotts Hotel,Rock On,Killarney,Rock,500,50,52.059394,-9.505438
+20/12/2019,Towers Hotel,Jimmy Smith,Glenbeigh,Blues,150,15,52.056866,-9.939388
+20/12/2019,An Teach Beag,Cool Sounds,Tralee,Jazz,400,40,52.269656,-9.705905
+20/12/2019,The Blasket,Funkadelic,Tralee,Funk,300,30,52.269282,-9.703693
+21/12/2019,Cahernane House Hotel,Jazz Company,Killarney,Jazz,600,60,52.043426,-9.509944
+21/12/2019,Imperial Hotel,Moondog,Tralee,Folk,200,20,52.268645,-9.705227
+21/12/2019,Grand Hotel,Open Mic,Tralee,Folk,200,20,52.269176,-9.705026
+21/12/2019,Scotts Hotel,Wedding Band,Killarney,Pop,900,90,52.059394,-9.505438
+21/12/2019,Towers Hotel,One Man & Guitar,Glenbeigh,Pop,180,18,52.056866,-9.939388
+21/12/2019,Bailys Corner,I'm Not Here,Tralee,Rock,350,35,52.269314,-9.703899
+21/12/2019,Bunkers Bar,Nixer,Killorglin,Trad,250,25,52.106742,-9.788117
+21/12/2019,McCarthys Bar,2 Up,Dingle,Folk,300,30,52.142457,-10.270072
+21/12/2019,Kingstons Bar,Joe Bloggs,Killorglin,Pop,250,25,52.106473,-9.785792
+21/12/2019,Greyhound Bar,Rock On,Tralee,Rock,500,50,52.271646,-9.708596
+21/12/2019,The Barn,Deal Me In,Killorglin,Blues,700,70,52.106022,-9.786859
+21/12/2019,The Blasket,Funkadelic,Tralee,Funk,300,30,52.269282,-9.703693
+24/12/2019,An Teach Beag,Open Mic,Tralee,Folk,200,20,52.269656,-9.705905
+24/12/2019,Cliffords Tavern,I'm Not Here,Killorglin,Rock,350,35,52.106782,-9.78761
+24/12/2019,O'Riada's,Deal Me In,Castleisland,Blues,700,70,52.251403,-9.547925
+24/12/2019,The Moorings,One Man & Guitar,Portmagee,Pop,180,18,51.885752,-10.365726
+26/12/2019,Adams,I'm Not Here,Dingle,Rock,350,35,52.141983,-10.268527
+26/12/2019,Ashes Bar,Trad & Co.,Glenbeigh,Trad,350,35,52.056557,-9.939806
+26/12/2019,Bunkers Bar,One Man & Guitar,Killorglin,Pop,180,18,52.106742,-9.788117
+26/12/2019,Bailys Corner,Jimmy Smith,Tralee,Blues,150,15,52.269314,-9.703899
+26/12/2019,Courtneys Killarney,Deal Me In,Killarney,Blues,700,70,52.058761,-9.508128
+26/12/2019,Greyhound Bar,Jazz Company,Tralee,Jazz,600,60,52.271646,-9.708596
+26/12/2019,Jack's Coastguard,Ceili Band,Killorglin,Trad,500,50,52.111627,-9.902396
+26/12/2019,McCarthys Bar,Wedding Band,Dingle,Pop,900,90,52.142457,-10.270072
+26/12/2019,Mike the Pies,2 Up,Listowel,Folk,300,30,52.44897,-9.486242
+26/12/2019,The Fiddler,Nixer,Tralee,Trad,250,25,52.269581,-9.706692
+26/12/2019,The Blasket,Moondog,Tralee,Folk,200,20,52.269282,-9.703693
+26/12/2019,The Half Barrel,Cool Sounds,Castleisland,Jazz,400,40,52.230893,-9.4638
+26/12/2019,West End Bar,Joe Bloggs,Fenit,Pop,250,25,52.277051,-9.864408
+28/12/2019,Adams,Country Cousins,Dingle,Country,750,75,52.141983,-10.268527
+28/12/2019,Greyhound Bar,True Blues,Tralee,Blues,450,45,52.271646,-9.708596
+28/12/2019,Kingstons Bar,One Man & Guitar,Killorglin,Pop,180,18,52.106473,-9.785792
+28/12/2019,McCarthys Bar,Nixer,Dingle,Trad,250,25,52.142457,-10.270072
+28/12/2019,Nelliefreds,Cool Sounds,Dingle,Jazz,400,40,52.141535,-10.266102
+28/12/2019,Mike the Pies,Wedding Band,Listowel,Pop,900,90,52.44897,-9.486242
+28/12/2019,The Barn,Rock On,Killorglin,Rock,500,50,52.106022,-9.786859
+28/12/2019,The Blasket,Jimmy Smith,Tralee,Blues,150,15,52.269282,-9.703693
+28/12/2019,The Crown,Ceili Band,Castleisland,Trad,500,50,52.231298, -9.463085
+28/12/2019,The Oyster Tavern,Jazz Company,Tralee,Jazz,600,60,52.276136,-9.78054
+28/12/2019,Towers (O'Donoghue),I'm Not Here,Killarney,Rock,350,35,52.059137,-9.506438
+28/12/2019,Towers Hotel,Deal Me In,Glenbeigh,Blues,700,70,52.056866,-9.939388
+31/12/2019,Adams,True Blues,Dingle,Blues,450,45,52.141983,-10.268527
+31/12/2019,Bailys Corner,Moondog,Tralee,Folk,200,20,52.269314,-9.703899
+31/12/2019,Bunkers Bar,Jazz Company,Killorglin,Jazz,600,60,52.106742,-9.788117
+31/12/2019,Flahives,Hip Hop Hippies,Ballyheigue,Hip Hop,250,25,52.38957,-9.831604
+31/12/2019,Grand Hotel,One Man & Guitar,Tralee,Pop,180,18,52.269176,-9.705026
+31/12/2019,Greyhound Bar,Deal Me In,Tralee,Blues,700,70,52.271646,-9.708596
+31/12/2019,McCarthys Bar,I'm Not Here,Dingle,Rock,350,35,52.142457,-10.270072
+31/12/2019,Mike the Pies,Rock On,Listowel,Rock,500,50,52.44897,-9.486242
+31/12/2019,The Fiddler,Cool Sounds,Tralee,Jazz,400,40,52.269581,-9.706692
+31/12/2019,Paddy Macs,Open Mic,Tralee,Folk,200,20,52.26942,-9.70487
+31/12/2019,Ross Point,Nixer,Glenbeigh,Trad,250,25,52.053679,-9.97643
+31/12/2019,Spillanes,Ceili Band,Castlegregory,Trad,500,50,52.303324,-10.040071
+31/12/2019,The Barn,Funkadelic,Killorglin,Funk,300,30,52.106022,-9.786859
+31/12/2019,The Blasket,Wedding Band,Tralee,Pop,900,90,52.269282,-9.703693
+31/12/2019,The Half Barrel,Country Cousins,Castleisland,Country,750,75,52.230893,-9.4638
+31/12/2019,The Oyster Tavern,2 Up,Tralee,Folk,300,30,52.276136,-9.78054
+31/12/2019,Towers (Scruffys),Trad & Co.,Killarney,Trad,350,35,52.058663,-9.507248
+31/12/2019,Towers Hotel,Joe Bloggs,Glenbeigh,Pop,250,25,52.056866,-9.939388
+31/12/2019,West End Bar,Jimmy Smith,Fenit,Blues,150,15,52.277051,-9.864408
