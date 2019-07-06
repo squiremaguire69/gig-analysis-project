@@ -5,29 +5,97 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css" type="text/css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dc/2.1.8/dc.css" type="text/css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     
 </head>
 <body>
-    <div id="monthly-total-chart">Total Gigs Per Month</div>
+    <!--Navigation Bar-->
+    <nav class="navbar fixed-top navbar-dark bg-success">
+  <a class="navbar-brand" href="#!">Music Venue Connect</a>
+</nav>
     
-    <div id="gigs-by-town">Gigs By Town</div>
+   <!--Top Level Activity Chart By Month-->
+   <div class="section">
+       <div class="header">
+           <h1>Activity Levels for 2019</h1>
+           <h2>No. of Gigs Booked</h2>
+       </div>
+       
+    <!--Selector Row-->
+    <div class="row">
+        <div class="col-md-offset-2">
+            <h3>Select Month</h3>
+        </div>
+            <div class="col-md-offset-2" id="month_selector"></div>
+    </div>
     
-    <div id="gigs-by-venue">Gigs By Venue</div>
+    <!--Month Breakdown Header-->
+       <div class="header">
+           <h3>Activity Level By Month</h3>
+       </div>
     
-    <div id="gigs-by-genre">Gigs By Genre</div>
+    <!--Annual Activity Chart Broken Down By Month-->
+       <div class="col-md-offset-2" id="monthly-total-chart"></div>
+   </div>
+   
+   <!--Town & Genre Activity Charts-->
+   <div class="section">
+       <div class="row">
+           <div class="col-md-6 header">
+               <h3>Gigs By Town</h3>
+           </div>
+           <div class="col-md-6 header">
+               <h3>Gigs By Genre</h3>
+           </div>
+       </div>
+       <div class="col-md-6" id="gigs-by-town"></div>
+       <div class="col-md-6" id="gigs-by-genre"></div>
+   
+   
+       <!--Activity By Venue-->
+       <div class="row">
+           <div class="header">
+               <h3>Gigs By Venue</h3>
+           </div>
+           <div class="col-md-offset-3" id="gigs-by-venue"></div>
+       </div>
+   </div>
     
-    <div id="revenue-by-month">Revenue By Month</div>
+    <!--Revenue Analysis Section-->
+   <div class="section">
+       <div class="header">
+           <h1>Revenue Analysis</h1>
+       </div>
+    <!--Revenue Pie Charts-->
+       <div class="row">
+           <div class="col-md-4">
+               <h3>Revenue By Month</h3>
+           </div>
+           <div class="col-md-4">
+               <h3>Revenue By Town</h3>
+           </div>
+           <div class="col-md-4">
+               <h3>Revenue By Venue</h3>
+           </div>
+       </div>
+       <div class="col-md-4" id="revenue-by-month"></div>
+   
+       <div class="col-md-4" id="revenue-by-town"></div>
+   
+       <div class="col-md-4" id="revenue-by-venue"></div>
+    <!--Commission BarChart   -->
+       <div class="row">
+           <h3>Average Commission By Venue</h3>
+       </div>
+       <div class="row">
+           <div class="col-md-offset-3" id="avg-commission-per-venue"></div>
+       </div>
+    </div> 
     
-    <div id="revenue-by-town">Revenue By Town</div>
-    
-    <div id="revenue-by-venue">Revenue By Venue</div>
-    
-    <div id="avg-commission-per-venue">Average Commission by Venue</div>
-    
-    <div id="avg-spend-per-venue">Average Spend Per Venue</div>
+   
  
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>

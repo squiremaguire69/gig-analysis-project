@@ -1,9 +1,19 @@
-#gigs-by-town .x.axis text {
- text-anchor: end !important;
- transform: rotate(-90deg);
+div {
+ border: solid 2px red;
 }
 
+#gigs-by-town .x.axis text {
+ text-anchor: end !important;
+ transform: rotate(-40deg);
+}
+
+
 #gigs-by-venue .x.axis text {
+ text-anchor: end !important;
+ transform: rotate(-80deg);
+}
+
+#avg-commission-per-venue .x.axis text {
  text-anchor: end !important;
  transform: rotate(-80deg);
 }
