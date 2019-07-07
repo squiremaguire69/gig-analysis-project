@@ -1,5 +1,35 @@
-div {
- border: solid 2px red;
+/*div {*/
+/* border: solid 2px red;*/
+/*}*/
+
+.divider {
+ border-bottom: solid 5px red;
+}
+
+.dashboard-nav a {
+ margin-left: 50px;
+ padding: 0;
+}
+
+.dashboard-van img {
+ padding: 0;
+ margin: 0;
+ vertical-align: top;
+}
+
+.selector-row {
+ background-color: warning;
+ position: sticky;
+ top: 0;
+}
+
+.selector-button {
+ position: relative;
+ vertical-align: middle;
+}
+
+.split-chart {
+ margin: 0px 50px;
 }
 
 #gigs-by-town .x.axis text {
@@ -16,4 +46,8 @@ div {
 #avg-commission-per-venue .x.axis text {
  text-anchor: end !important;
  transform: rotate(-80deg);
+}
+
+.footer-section {
+ background-color: blue;
 }

@@ -13,71 +13,80 @@
 </head>
 <body>
     <!--Navigation Bar-->
-    <nav class="navbar fixed-top navbar-dark bg-success">
-  <a class="navbar-brand" href="#!">Music Venue Connect</a>
+    <nav class="navbar fixed-top navbar-dark bg-primary dashboard-nav">
+        <a class="navbar-brand" href="#!">
+          <img src="images/MVConnect Logo.png" width="120" height="50">
+        </a>
 </nav>
     
-   <!--Top Level Activity Chart By Month-->
-   <div class="section">
-       <div class="header">
-           <h1>Activity Levels for 2019</h1>
-           <h2>No. of Gigs Booked</h2>
-       </div>
-       
-    <!--Selector Row-->
-    <div class="row">
-        <div class="col-md-offset-2">
-            <h3>Select Month</h3>
-        </div>
-            <div class="col-md-offset-2" id="month_selector"></div>
+   <!--Header Section-->
+<div class="section text-center">
+    <div class="header">
+        <h1>Activity Levels for 2019</h1>
+        <h2>No. of Gigs Booked</h2>
     </div>
-    
-    <!--Month Breakdown Header-->
-       <div class="header">
-           <h3>Activity Level By Month</h3>
-       </div>
-    
+
+    <div class="container-fluid selector-row">
+        <!--Selector Row-->
+        <div class="row">
+            <div class="col-md-2">
+                <h3>Select Month</h3>
+            </div>
+            <div class="col-md-2" id="month_selector"></div>
+        </div>
+    </div>
+</div>
+
+<!--Month Breakdown-->
+<div class="section">
+    <div class="header text-center">
+        <h3>Activity Level By Month</h3>
+    </div>
+
     <!--Annual Activity Chart Broken Down By Month-->
-       <div class="col-md-offset-2" id="monthly-total-chart"></div>
-   </div>
+    <div class="col-sm-offset-4 divider" id="monthly-total-chart"></div>
+</div>
    
+<!--<div class="col-6 divider"></div>-->
+
    <!--Town & Genre Activity Charts-->
    <div class="section">
        <div class="row">
-           <div class="col-md-6 header">
+           <div class="col-md-5 header text-center split-chart">
                <h3>Gigs By Town</h3>
            </div>
-           <div class="col-md-6 header">
+           <div class="col-md-5 header text-center split-chart">
                <h3>Gigs By Genre</h3>
            </div>
        </div>
-       <div class="col-md-6" id="gigs-by-town"></div>
-       <div class="col-md-6" id="gigs-by-genre"></div>
-   
+       <div class="col-md-5 split-chart" id="gigs-by-town"></div>
+       <div class="col-md-5 split-chart" id="gigs-by-genre"></div>
+    </div>
    
        <!--Activity By Venue-->
-       <div class="row">
-           <div class="header">
-               <h3>Gigs By Venue</h3>
-           </div>
-           <div class="col-md-offset-3" id="gigs-by-venue"></div>
-       </div>
-   </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-offset-2 header text-center">
+                <h3>Gigs By Venue</h3>
+            </div>
+            <div class="col-md-offset-2 divider" id="gigs-by-venue"></div>
+        </div>
+    </div>
     
     <!--Revenue Analysis Section-->
    <div class="section">
-       <div class="header">
+       <div class="header text-center">
            <h1>Revenue Analysis</h1>
        </div>
     <!--Revenue Pie Charts-->
        <div class="row">
-           <div class="col-md-4">
+           <div class="col-md-4 text-center">
                <h3>Revenue By Month</h3>
            </div>
-           <div class="col-md-4">
+           <div class="col-md-4 text-center">
                <h3>Revenue By Town</h3>
            </div>
-           <div class="col-md-4">
+           <div class="col-md-4 text-center">
                <h3>Revenue By Venue</h3>
            </div>
        </div>
@@ -87,14 +96,14 @@
    
        <div class="col-md-4" id="revenue-by-venue"></div>
     <!--Commission BarChart   -->
-       <div class="row">
+       <div class="row text-center">
            <h3>Average Commission By Venue</h3>
        </div>
        <div class="row">
            <div class="col-md-offset-3" id="avg-commission-per-venue"></div>
        </div>
     </div> 
-    
+    <footer class="container-fluid footer-section"></footer>
    
  
 

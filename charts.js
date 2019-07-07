@@ -27,43 +27,48 @@ function makeGraphs(error, dashboardData) {
     dc.renderAll();
 }
 
+// Month Selector
 function show_month_selector(ndx) {
     var month = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct","Nov", "Dec"];
     var dim = ndx.dimension(dc.pluck('Month'));
     var group = dim.group();
-    
-    
-    dc.selectMenu("#month_selector")
+
+    month.forEach((value, index) => {
+        group.all()[index]["month"] = value;
+    }) 
+    var select = dc.selectMenu("#month_selector")
     .dimension(dim)
     .group(group)
-    
+    select.title(function (d){
+        return d.month;
+    })
 }
-    
+
+// Total Number of Gigs Per Month    
 function show_gigs_per_month(ndx) {
-    
+    var month = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
     var date_dim = ndx.dimension(dc.pluck('Date'));
     var month_dim = ndx.dimension(dc.pluck('Month'));
-    
+
     var minDate = date_dim.bottom(1)[0].Month;
     var maxDate = date_dim.top(1)[0].Month;
 
-    //var month = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct","Nov", "Dec"];
-   // var gig = month_dim.group();
-   
-   var number_per_month = month_dim.group();
-    
-    console.log(number_per_month.all())
-    
-     dc.barChart("#monthly-total-chart")
-    .width(800)
-    .height(300)
-    .margins({top: 10, right: 50, bottom: 50, left: 50})
-    .dimension(month_dim)
-    .group(number_per_month)
-    .transitionDuration(1000)
-    .x(d3.scale.linear().domain([minDate,maxDate]))
-    .xAxisLabel("Month")
-    .yAxis().ticks(10)
+    var number_per_month = month_dim.group();
+    // month.forEach((value, index) => {
+    //     number_per_month.all()[index]["month"] = value;
+
+    // console.log(number_per_month.all())
+
+    dc.barChart("#monthly-total-chart")
+        .width(800)
+        .height(300)
+        .margins({ top: 10, right: 50, bottom: 50, left: 50 })
+        .dimension(month_dim)
+        .group(number_per_month)
+        .transitionDuration(1000)
+        .x(d3.scale.linear().domain([minDate,maxDate]))
+        .xAxisLabel("Month")
+        .yAxis().ticks(10)
 }
 
 function show_gigs_by_town(ndx){
@@ -73,7 +78,7 @@ function show_gigs_by_town(ndx){
     console.log(townGroup.all());
     
      dc.barChart("#gigs-by-town")
-    .width(800)
+    .width(600)
     .height(300)
     .margins({top: 10, right: 50, bottom: 50, left: 50})
     .dimension(town_dim)
@@ -109,14 +114,23 @@ function show_gigs_by_venue(ndx) {
 }
 
 function show_gigs_by_genre(ndx) {
+    var genreColours = d3.scale.ordinal()
+    .domain(["Blues","Country","Folk","Funk","Hip Hop","Jazz","Pop","Rock","Trad"])
+    .range(["blue","yellow","green","brown","orange","red","purple","deeppink","violet"])
+    
     var genre_dim = ndx.dimension(dc.pluck('Genre'));
     
     var genreGroup = genre_dim.group();
     console.log(genreGroup.all());
     
      dc.barChart("#gigs-by-genre")
-    .width(800)
+    .width(600)
     .height(300)
+    .brushOn(false)
+    .colorAccessor(function(d) {
+        return d.key[0]
+    })
+    .colors(genreColours)
     .margins({top: 10, right: 50, bottom: 50, left: 50})
     .dimension(genre_dim)
     .group(genreGroup)
