@@ -27,24 +27,25 @@
     </div>
 
     <div class="container-fluid selector-row">
-        <!--Selector Row-->
-        <div class="row">
-            <div class="col-md-2">
-                <h3>Select Month</h3>
-            </div>
-            <div class="col-md-2" id="month_selector"></div>
-        </div>
+        <!--Selector Block-->
+       
+            <div class="col-md-2 selector-dropdown" id="month_selector">
+                <h3>Select Month</h3> 
+                </div>
     </div>
+</div>
 </div>
 
 <!--Month Breakdown-->
 <div class="section">
+    <div class="row">
     <div class="header text-center">
         <h3>Activity Level By Month</h3>
     </div>
 
     <!--Annual Activity Chart Broken Down By Month-->
-    <div class="col-sm-offset-4 divider" id="monthly-total-chart"></div>
+    <div class="col-sm-6 divider" id="monthly-total-chart"></div>
+    </div>
 </div>
    
 <!--<div class="col-6 divider"></div>-->
@@ -64,12 +65,12 @@
     </div>
    
        <!--Activity By Venue-->
-    <div class="container">
+    <div class="section">
         <div class="row">
-            <div class="col-md-offset-2 header text-center">
+            <div class="header text-center">
                 <h3>Gigs By Venue</h3>
             </div>
-            <div class="col-md-offset-2 divider" id="gigs-by-venue"></div>
+            <div class="col-sm-8 divider" id="gigs-by-venue"></div>
         </div>
     </div>
     
@@ -95,15 +96,17 @@
        <div class="col-md-4" id="revenue-by-town"></div>
    
        <div class="col-md-4" id="revenue-by-venue"></div>
+     </div>
     <!--Commission BarChart   -->
+    <div class="section">
        <div class="row text-center">
            <h3>Average Commission By Venue</h3>
        </div>
        <div class="row">
-           <div class="col-md-offset-3" id="avg-commission-per-venue"></div>
+           <div class="col-sm-8 divider" id="avg-commission-per-venue"></div>
        </div>
     </div> 
-    <footer class="container-fluid footer-section"></footer>
+   
    
  
 

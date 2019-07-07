@@ -54,11 +54,7 @@ function show_gigs_per_month(ndx) {
     var maxDate = date_dim.top(1)[0].Month;
 
     var number_per_month = month_dim.group();
-    // month.forEach((value, index) => {
-    //     number_per_month.all()[index]["month"] = value;
-
-    // console.log(number_per_month.all())
-
+    
     dc.barChart("#monthly-total-chart")
         .width(800)
         .height(300)
@@ -99,9 +95,9 @@ function show_gigs_by_venue(ndx) {
     console.log(venueGroup.all());
     
      dc.barChart("#gigs-by-venue")
-    .width(1000)
+    .width(800)
     .height(300)
-    .margins({top: 10, right: 50, bottom: 100, left: 50})
+    .margins({top: 10, right: 100, bottom: 100, left: 100})
     .dimension(venue_dim)
     .group(venueGroup)
     .transitionDuration(1000)
@@ -227,9 +223,9 @@ function show_avg_comm_per_venue(ndx) {
         var avg_chart = dc.barChart('#avg-commission-per-venue')
         
         avg_chart
-        .width(1000)
+        .width(800)
         .height(300)
-        .margins({top: 10, right: 50, bottom: 100, left: 50})
+        .margins({top: 10, right: 100, bottom: 100, left: 100})
         .dimension(venue_dim)
         .group(avg_commission_per_venue)
         .valueAccessor(function(d) {

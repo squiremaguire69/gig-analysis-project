@@ -1,8 +1,7 @@
-/*div {*/
-/* border: solid 2px red;*/
-/*}*/
 
 .divider {
+ margin-left: 300px;
+ margin-right: 150px;
  border-bottom: solid 5px red;
 }
 
@@ -11,25 +10,24 @@
  padding: 0;
 }
 
-.dashboard-van img {
- padding: 0;
- margin: 0;
- vertical-align: top;
+section {
+ margin: 50px 20px;
 }
 
-.selector-row {
- background-color: warning;
- position: sticky;
- top: 0;
+.selector-title {
+ padding: 20px;
 }
 
-.selector-button {
- position: relative;
- vertical-align: middle;
+.selector-dropdown {
+ text-align: center;
 }
 
 .split-chart {
  margin: 0px 50px;
+}
+
+.by-venue {
+ margin-left: 200px;
 }
 
 #gigs-by-town .x.axis text {
