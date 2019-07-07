@@ -51,7 +51,7 @@ I would like to acknowledge the support of my mentor Seun Owonikoko who helped m
 
 This project has been stored on gitHub at this location <https://github.com/squiremaguire69/gig-analysis-project>.
 
-Deployment has been done via GitHub pages 
+Deployment has been done via GitHub pages @ <https://squiremaguire69.github.io/gig-analysis-project/>
 
 ##Challenges
 
